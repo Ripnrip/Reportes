@@ -1,0 +1,199 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MapAnnotation"
+provides-nominal:
+- "C7AR_Hunt13MapAnnotation"
+provides-member:
+- ["C7AR_Hunt13MapAnnotation", ""]
+provides-dynamic-lookup:
+- "title"
+- "coordinate"
+depends-top-level:
+- "String"
+- !private "StringLiteralType"
+- "CLLocationCoordinate2D"
+- "NSObject"
+- "MapAnnotation"
+- "ARItem"
+- "AssignmentPrecedence"
+- "MKAnnotation"
+depends-member:
+- ["V7AR_Hunt6ARItem", "deinit"]
+- !private ["V7AR_Hunt6ARItem", "itemDescription"]
+- ["Ps9AnyObject", "coordinate"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "item"]
+- ["Ps9AnyObject", "subtitle"]
+- ["Ps9AnyObject", "title"]
+- ["Ps9AnyObject", ""]
+- ["VSC22CLLocationCoordinate2D", "deinit"]
+- ["Ps7CVarArg", "coordinate"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "item"]
+- ["Ps7CVarArg", "subtitle"]
+- ["Ps7CVarArg", "title"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "coordinate"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "item"]
+- ["Ps28CustomDebugStringConvertible", "subtitle"]
+- ["Ps28CustomDebugStringConvertible", "title"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "coordinate"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "item"]
+- ["Ps23CustomStringConvertible", "subtitle"]
+- ["Ps23CustomStringConvertible", "title"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "coordinate"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "item"]
+- ["Ps9Equatable", "subtitle"]
+- ["Ps9Equatable", "title"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps8Hashable", "coordinate"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "item"]
+- ["Ps8Hashable", "subtitle"]
+- ["Ps8Hashable", "title"]
+- ["Ps8Hashable", ""]
+- ["PSo12MKAnnotation", "coordinate"]
+- !private ["PSo12MKAnnotation", "item"]
+- ["PSo12MKAnnotation", "subtitle"]
+- ["PSo12MKAnnotation", "title"]
+- ["PSo12MKAnnotation", ""]
+- ["C7AR_Hunt13MapAnnotation", "ARItem"]
+- ["C7AR_Hunt13MapAnnotation", "CLLocationCoordinate2D"]
+- ["C7AR_Hunt13MapAnnotation", "String"]
+- ["C7AR_Hunt13MapAnnotation", "coordinate"]
+- ["C7AR_Hunt13MapAnnotation", "deinit"]
+- ["C7AR_Hunt13MapAnnotation", "init"]
+- ["C7AR_Hunt13MapAnnotation", "item"]
+- ["C7AR_Hunt13MapAnnotation", "subtitle"]
+- ["C7AR_Hunt13MapAnnotation", "title"]
+- ["CSo8NSObject", "ARItem"]
+- ["CSo8NSObject", "CLLocationCoordinate2D"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "coordinate"]
+- ["CSo8NSObject", "deinit"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "item"]
+- ["CSo8NSObject", "subtitle"]
+- ["CSo8NSObject", "title"]
+- ["CSo8NSObject", ""]
+- ["PSo16NSObjectProtocol", "coordinate"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "item"]
+- ["PSo16NSObjectProtocol", "subtitle"]
+- ["PSo16NSObjectProtocol", "title"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Os5Never", "deinit"]
+- ["Sq", "deinit"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["SS", "deinit"]
+- ["Su", "deinit"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps9_Hashable", "coordinate"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "item"]
+- ["Ps9_Hashable", "subtitle"]
+- ["Ps9_Hashable", "title"]
+- ["Ps9_Hashable", ""]
+depends-nominal:
+- "V7AR_Hunt6ARItem"
+- "Ps9AnyObject"
+- "VSC22CLLocationCoordinate2D"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "PSo12MKAnnotation"
+- "C7AR_Hunt13MapAnnotation"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Os5Never"
+- "Sq"
+- "Vs12StaticString"
+- "SS"
+- "Su"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps9_Hashable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Users/admin/Downloads/AR_Hunt /Pods/Firebase/Core/Sources/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SceneKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/GLKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MapKit.swiftmodule"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseCore/Frameworks/frameworks/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIROptions.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRConfiguration.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRApp.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAnalytics/Frameworks/frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FIREmailPasswordAuthProvider.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseAuth/Frameworks/frameworks/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseDatabase/Frameworks/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/admin/Downloads/AR_Hunt /Pods/FirebaseInstanceID/Frameworks/frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/admin/Downloads/AR_Hunt /Pods/Firebase/Core/Sources/Firebase.h"
+interface-hash: "744c3336ceb93c20c67e6eab1cc5afe8"

@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "3a522dbe9237f6fd8fadc31d488ff5d0"
+build_time: [541978632, 468357000]
+inputs:
+  "/Users/admin/Downloads/AR_Hunt /AR_Hunt/ViewController.swift": [541916419, 0]
+  "/Users/admin/Downloads/AR_Hunt /AR_Hunt/MapAnnotation.swift": [536404286, 0]
+  "/Users/admin/Downloads/AR_Hunt /AR_Hunt/ARItem.swift": [536404285, 0]
+  "/Users/admin/Downloads/AR_Hunt /AR_Hunt/MapViewController.swift": !dirty [541978632, 0]
+  "/Users/admin/Downloads/AR_Hunt /AR_Hunt/AppDelegate.swift": [541921956, 0]
